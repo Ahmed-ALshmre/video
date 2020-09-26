@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "96214994852",
+    "firebase_url": "https://videypalyer.firebaseio.com",
+    "project_id": "videypalyer",
+    "storage_bucket": "videypalyer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96214994852:android:cecf1cef3ed8c62843bb31",
+        "android_client_info": {
+          "package_name": "com.videw_plyer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96214994852-dppt6av4tgv5p6fgjbb28ibksoj8dem3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC4zYrkR1XoUrYehCseRJ5gUmUex72kUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96214994852-dppt6av4tgv5p6fgjbb28ibksoj8dem3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
